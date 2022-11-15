@@ -1,0 +1,31 @@
+_repo: In-search-of-fortune-A-tale-of-the-old-land-and-the-new_69315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2022-11-08'
+identifiers:
+  gutenberg: '69315'
+language: en
+pgterms:marc905: 20221011093204stables
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: 'United Kingdom: John F. Shaw and Co.,1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'In search of fortune: A tale of the old land and the new'
+url: http://www.gutenberg.org/ebooks/69315
